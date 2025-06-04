@@ -1,0 +1,26 @@
+HAx(11): gama(1), entropy(2), delta(3), combination_HA(4), combination_H1mA(5), combination_1mHA(6), combination_1mH1mA(7), lambda(8), beta(9), anisotropy(10), alpha(11)
+JRH(3): T33(12), T22(13), T11(14)
+RMB1(3): T33(15), T22(16), T11(17)
+RMB2(3): T33(18), T22(19), T11(20)
+SRC(3): T33(21), T22(22), T11(23)
+HOL-1: T33(24), T22(25), T11(26)
+HOL-1: T33(27), T22(28), T11(29)
+AN3: Vol(30), Odd(31), Dbl(32)
+AN4: Vol(33), Odd(34), Hlx(35), Dbl(36)
+FRE2: Vol_T33(37), Vol_T22(38), Vol_T22(39), GRD_T22(40), GRD_T11(41), Vol(42), GRD(43)
+KRO: Ks(44), Kh(45), Kd(46)
+Touzi: TSVM_tau_m3(47), TSVM_tau_m2(48), TSVM_tau_m1(49), TSVM_tau_m(50), 
+          TSVM_psi3(51), TSVM_psi2(52), TSVM_psi1(53), TSVM_psi(54), 
+          TSVM_phi_s3(55), TSVM_phi_s2(56), TSVM_phi_s1(57), TSVM_phi_s(58), 
+          TSVM_alpha_s3(59), TSVM_alpha_s2(60), TSVM_alpha_s1(61), TSVM_alpha_s(62), 
+Bhattacharya_Frery: Vol(63), Odd(64), Hlx(65), Dbl(66)
+Singh-Yamaguchi: Singh_i6SD_Vol(67), Singh_i6SD_Odd(68), Singh_i6SD_OD(69), Singh_i6SD_Hlx(70), Singh_i6SD_Dbl(71), Singh_i6SD_CD(72)
+L. Zhang: MCSM_Wire(73), MCSM_Vol(74), MCSM_Odd(75), MCSM_Hlx(76), MCSM_DblHlx(77), MCSM_Dbl(78)
+YAM4: Vol(79), Odd(80), Hlx(81), Dbl(82)
+YAM3: Vol(83), Odd(84), Dbl(85)
+Singh4: Vol(86), Odd(87), Hlx(88), Dbl(89)
+Van Zyl: Vol(90), Odd(91), Dbl(92)
+Arii: Vol(93), Odd(94), Dbl(95)
+Neumann: Neumann_tau(96), Neumann_psi(97), Neumann_delta_pha(98), Neumann_delta_mod(99)
+FRE3: Vol_T22(100), Vol_T11(101), Odd_T22(102), Odd_T11(103), Dbl_T22(104), Dbl_T11(105), Vol(106), ODD(107). GRD(108)
+
