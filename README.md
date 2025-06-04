@@ -14,7 +14,6 @@ The file 'Feature order for PolSAR feature set.txt' shows the sequence of featur
 The links of competitive algorithms:
 
 FNGBS: https://github.com/qianngli/FNGBS;
-
 SOPSRL: https://github.com/xhweei/hyperspectral-band-selection;
 CNAFS: https://github.com/misteru/CNAFS;
 MGSR: https://github.com/ZhangYongshan/MGSR;
